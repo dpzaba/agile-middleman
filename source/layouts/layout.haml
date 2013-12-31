@@ -2,15 +2,20 @@
 %html
   %head
     %meta(charset = "utf-8")
-    %meta(content = "IE=edge,chrome=1" http-equiv = "X-UA-Compatible")
-    
+    = meta_tag "width=device-width, initial-scale=1.0", name: "viewport"
+    = meta_tag "IE=edge,chrome=1", "http-equiv" => "X-UA-Compatible" # just for IE
+
+    = favicon_tag "favicon.png"
+    = favicon_tag "favicon.png", rel: 'apple-touch-icon'
+
     = stylesheet_link_tag "normalize", "all"
-    
+
     %title
-      = current_page.data.title || "The Middleman" 
+      = current_page.data.title || "The Middleman"
+
   %body
     %div{class: page_classes}
       = yield
-    
+
     = javascript_include_tag  "all"
 
