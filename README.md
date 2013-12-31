@@ -19,6 +19,7 @@ My config:
 * Js at the bottom of the body tag
 * Added favicon (png)
 * Ready for mobile
+* Specified language by default (I18n.locale)
 * Using some tag helpers
 
 
