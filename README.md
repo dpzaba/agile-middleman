@@ -7,9 +7,10 @@ It doesn't have any additional Js or CSS library.
 
 Enabled options:
 
-* HAML
-* Minify CSS and Js
+* [HAML](http://haml.info)
+* [Coffeescript](http://coffeescript.org)
 * [Sass](http://sass-lang.com)
+* Minify CSS and Js
 * Relative assets path (CSS and Js)
 
 My config:
@@ -26,6 +27,7 @@ My config:
 Documentation:
 
 * [Meta elements from Mozilla (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
+* [Markdown](http://daringfireball.net/projects/markdown/basics)
 
 
 [David](www.dpzaba.com)
