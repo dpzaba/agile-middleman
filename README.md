@@ -28,6 +28,7 @@ Documentation:
 
 * [Meta elements from Mozilla (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
 * [Markdown](http://daringfireball.net/projects/markdown/basics)
-
+* [Nice post about Middleman](http://benfrain.com/understanding-middleman-the-static-site-generator-for-faster-prototyping)
+* [Padrino method list](http://www.padrinorb.com/api/method_list.html)
 
 [David](www.dpzaba.com)
